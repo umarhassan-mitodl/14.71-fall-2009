@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "98d25020-e7e8-dea2-43c2-e254dd2c4aa2",
+  "instructors": {
+    "content": [
+      "ebde8643-1410-392c-ea39-02a5e01c2971"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c3002738-b1b5-ed60-4b46-51414fc5e6a7",
+    "website": "14-71-economic-history-of-financial-crises-fall-2009"
+  },
+  "course_title": "Economic History of Financial Crises",
+  "course_description": "This course gives a historical perspective on financial panics. Topics include the growth of the industrial world, the Great Depression and surrounding events, and more recent topics such as the first oil crisis, Japanese stagnation, and conditions following the financial crisis of 2008.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.71",
+  "course_image_thumbnail": {
+    "content": "ae4bc290-5c83-fb00-912a-b0b867ad9f16",
+    "website": "14-71-economic-history-of-financial-crises-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments"
+  ],
+  "site_uid": "0d603162-004c-4bca-84f8-135e0b618adf",
+  "site_short_id": "14.71-fall-2009",
+  "site_url_path": "courses/14-71-economic-history-of-financial-crises-fall-2009",
+  "title": "Course Metadata"
+}
