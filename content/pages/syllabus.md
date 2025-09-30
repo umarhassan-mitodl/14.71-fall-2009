@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, requirements, grading, and the schedule
   of lecture topics and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +41,7 @@ Morris, Charles R. _The Two Trillion Dollar Meltdown: Easy Money, High Rollers, 
 
 Taylor, John B. _Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_. Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
 
-{{% resource_link "b6837774-b253-48c1-bd7f-3d539755843f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Temin, Peter. {{% resource_link "b6837774-b253-48c1-bd7f-3d539755843f" "_Lessons from the Great Depression_" %}}. Cambridge, MA: MIT Press, 1991. ISBN: 9780262700443.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700443) Temin, Peter. [_Lessons from the Great Depression_](https://mitpress.mit.edu/9780262700443). Cambridge, MA: MIT Press, 1991. ISBN: 9780262700443.
 
 Selected chapters will be chosen from these books:
 

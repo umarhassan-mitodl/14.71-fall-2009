@@ -5,6 +5,8 @@ description: Problem set on the economic history of financial crises and the Gre
 file: /courses/14-71-economic-history-of-financial-crises-fall-2009/6b9ac6db14a32054fc79d9088ea742a0_MIT14_71F09_pset1.pdf
 file_size: 26357
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Problem set on the economic history of financial crises, the Golden
 file: /courses/14-71-economic-history-of-financial-crises-fall-2009/bd9b5717adb50777159bd19f21fa7417_MIT14_71F09_pset2.pdf
 file_size: 23170
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
