@@ -16,17 +16,17 @@ Bartels, Larry M. _Unequal Democracy: The Political Economy of the New Gilded Ag
 
 Crafts, Nicholas, and Gianni Toniolo. _Economic Growth in Europe since 1945_. New York, NY: Cambridge University Press, 1996. ISBN: 9780521499644.
 
-Goldin, Claudia, and Lawrence F. Katz. _The Race between Education and Technology_. Cambridge, MA: Harvard University Press, 2008. ISBN: 9780674028678. \[Preview in [Google Books](http://books.google.com/books?id=mcYsvvNEUYwC&printsec=frontcover&dq=The+Race+between+Education+and+Technology&cd=1#v=onepage&q=&f=false)\]
+Goldin, Claudia, and Lawrence F. Katz. _The Race between Education and Technology_. Cambridge, MA: Harvard University Press, 2008. ISBN: 9780674028678. \[Preview in {{% resource_link "65ea7622-ca29-4875-a13b-a6950ebf38ba" "Google Books" %}}\]
 
 \[Koo\] = Koo, Richard C. _The Holy Grail of Macroeconomics: Lessons from Japan's Great Recession_. Rev. ed. New York, NY: Norton, 2009. ISBN: 9780470824948.
 
 Kindleberger, Charles P., and Jean-Pierre Laffargue. _Financial Crises: Theory, History, and Policy_. New York, NY: Cambridge University Press, 1982. ISBN: 9780521243803.
 
-\[Morris\] = Morris, Charles R. _The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash_. New York, NY: Public Affairs, 2009. ISBN: 9781586486914. \[Preview in [Google Books](http://books.google.com/books?id=sQU5DgAAQBAJ&pg=PAfrontcover)\]
+\[Morris\] = Morris, Charles R. _The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash_. New York, NY: Public Affairs, 2009. ISBN: 9781586486914. \[Preview in {{% resource_link "1102ec98-d986-41f2-9a82-b4bb3be52f75" "Google Books" %}}\]
 
-Taylor, John B. [_Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_](http://www.hooverpress.org/productdetails.cfm?PC=1342). Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
+Taylor, John B. {{% resource_link "7c5501e5-6ff1-4135-b590-a81da51c9384" "_Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_" %}}. Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700443) \[Temin\] = Temin, Peter. [_Lessons from the Great Depression_](https://mitpress.mit.edu/9780262700443). Cambridge, MA: MIT Press, 1989. ISBN: 9780262700443. \[Preview in [Google Books](http://books.google.com/books?id=squLnSDrJ4EC&printsec=frontcover&dq=lessons+from+the+great+depression+peter+temin&source=bl&ots=3Su7R0Ce-&sig=lCukzrsKhT2CgdUnIqPRZt6lp1k&hl=en&ei=3j5jS6yYC5CXtgfot7CyBg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBkQ6AEwAw#v=onepage&q=&f=false)\]
+{{% resource_link "da55d602-7ba9-4dbc-a615-b2aed043c4ee" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[Temin\] = Temin, Peter. {{% resource_link "da55d602-7ba9-4dbc-a615-b2aed043c4ee" "_Lessons from the Great Depression_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262700443. \[Preview in {{% resource_link "59a9722c-8b32-4b95-814e-b79623a2db8a" "Google Books" %}}\]
 
 Readings by Session
 -------------------
@@ -65,7 +65,7 @@ Introduction
 
 Duncan-Jones, Richard. _Money and Government in the Roman Empire_. New York, NY: Cambridge University Press, 1998, pp. 23-25. ISBN: 9780521648295.
 
-Krugman, Paul. "[How Did Economists Get It So Wrong](http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html?scp=1&sq=how%20did%20economists%20get%20it%20so%20wrong?%20krugman&st=cse)?" _New York Times Sunday Magazine_, September 6, 2009.
+Krugman, Paul. "{{% resource_link "133428e1-7104-455a-badd-b79e2aa82d3e" "How Did Economists Get It So Wrong" %}}?" _New York Times Sunday Magazine_, September 6, 2009.
 
 
 {{< tdclose >}}
@@ -85,13 +85,13 @@ Crises and industrialization
 
 Minsky, Hyman P. "The Financial-Instability Hypothesis: Capitalist Processes and the Behavior of the Economy." Chapter 2 in _Financial Crises: Theory, History, and Policy_. Edited by Charles P. Kindleberger and Jean-Pierre Laffargue. New York, NY: Cambridge University Press, 1982, pp. 13-50. ISBN: 9780521243803.
 
-Krugman, Paul. "[A Model of Balance-of-Payments Crises](http://ideas.repec.org/a/mcb/jmoncb/v11y1979i3p311-25.html)." _Journal of Money, Credit, and Banking_ 11, no. 3 (August 1979): 311-325.
+Krugman, Paul. "{{% resource_link "ba46205e-2d9b-4f28-925f-5ba2e3e667df" "A Model of Balance-of-Payments Crises" %}}." _Journal of Money, Credit, and Banking_ 11, no. 3 (August 1979): 311-325.
 
 ### Ses #3
 
-Temin, Peter. "[The Anglo-American Business Cycle, 1820-60](https://dspace.mit.edu/bitstream/handle/1721.1/63280/angloamericanbus00temi.pdf;sequence=1)." _Economic History Review_, New Series 27, no. 2 (May 1974): 207-221.
+Temin, Peter. "{{% resource_link "50648c8b-9d6d-435c-a193-8f219c669bc9" "The Anglo-American Business Cycle, 1820-60" %}}." _Economic History Review_, New Series 27, no. 2 (May 1974): 207-221.
 
-Calomiris, Charles W. "[Is Deposit Insurance Necessary? A Historical Perspective](http://ideas.repec.org/a/cup/jechis/v50y1990i02p283-295_03.html)." _Journal of Economic History_ 50, no. 2 (June 1990): 283-295.
+Calomiris, Charles W. "{{% resource_link "fb38c08e-d84e-4feb-a5d3-e0994decaf42" "Is Deposit Insurance Necessary? A Historical Perspective" %}}." _Journal of Economic History_ 50, no. 2 (June 1990): 283-295.
 
 Temin, Peter. "Free Land and Federalism: A Synoptic View of American Economic History." _Journal of Interdisciplinary History_ 21, no. 3 (Winter 1991): 371-389.
 
@@ -111,13 +111,13 @@ Early modern crises
 
 ### Ses #4
 
-Voth, Hans-Joachim. "[South Sea Bubble](http://dx.doi.org/10.1057/9780230226203.1575)." In _New Palgrave Dictionary of Economics_. 2nd ed. Edited by Steven N. Durlauf and Lawrence E. Blume. Hampshire, United Kingdom: Palgrave Macmillan, 2008. ISBN: 9780333786765 (set).
+Voth, Hans-Joachim. "{{% resource_link "1d6355d8-3764-4b82-8815-8b4b6563b5b1" "South Sea Bubble" %}}." In _New Palgrave Dictionary of Economics_. 2nd ed. Edited by Steven N. Durlauf and Lawrence E. Blume. Hampshire, United Kingdom: Palgrave Macmillan, 2008. ISBN: 9780333786765 (set).
 
-Temin, Peter, and Hans-Joachim Voth. "[Riding the South Sea Bubble](http://ideas.repec.org/a/aea/aecrev/v94y2004i5p1654-1668.html)." _American Economic Review_ 94, no. 5 (December 2004): 1654-1668.
+Temin, Peter, and Hans-Joachim Voth. "{{% resource_link "093b1b74-5085-431f-b8b4-651e80b26330" "Riding the South Sea Bubble" %}}." _American Economic Review_ 94, no. 5 (December 2004): 1654-1668.
 
 ### Ses #5
 
-Reinhart, Carmen M., and Kenneth S. Rogoff. "[Banking Crises: An Equal Opportunity Menace](http://www.nber.org/papers/w14587)." National Bureau of Economic Research Working Paper No. 14587, December 2008.
+Reinhart, Carmen M., and Kenneth S. Rogoff. "{{% resource_link "14d09586-2c7f-456d-a864-69050b8ff304" "Banking Crises: An Equal Opportunity Menace" %}}." National Bureau of Economic Research Working Paper No. 14587, December 2008.
 
 
 {{< tdclose >}}
@@ -165,11 +165,11 @@ Recovery and World War II
 
 ### Ses #9
 
-Cole, Harold L., and Lee E. Ohanian. "[New Deal Policies and the Persistence of the Great Depression: A General Equilibrium Analysis](http://ideas.repec.org/p/fip/fedmwp/597.html)." _Journal of Political Economy_ 112, no. 4 (2004): 779-816.
+Cole, Harold L., and Lee E. Ohanian. "{{% resource_link "2ba69f24-9d11-465e-8b1d-053efa664aaa" "New Deal Policies and the Persistence of the Great Depression: A General Equilibrium Analysis" %}}." _Journal of Political Economy_ 112, no. 4 (2004): 779-816.
 
 Brown, E. Cary. "Fiscal Policy in the 'Thirties: A Reappraisal." _American Economic Review_ 46, no. 5 (December 1956): 857-879.
 
-Krugman, Paul. "[Misguided Monetary Mentalities](http://www.nytimes.com/2009/10/12/opinion/12krugman.html?scp=1&sq=misguided%20monetary%20mentalities%20krugman&st=cse)." Op-Ed, _New York Times_, October 12, 2009.
+Krugman, Paul. "{{% resource_link "cb53ceff-28c0-4a60-96a2-240ac8c5cf81" "Misguided Monetary Mentalities" %}}." Op-Ed, _New York Times_, October 12, 2009.
 
 
 {{< tdclose >}}
@@ -197,9 +197,9 @@ Eichengreen, Barry. "Institutions and Economic Growth: Europe After World War II
 
 ### Ses #11
 
-Temin, Peter. "[The Golden Age of Economic Growth Reconsidered](http://ideas.repec.org/a/cup/ereveh/v6y2002i01p3-22_00.html)." _European Review of Economic History_ 6 (April 2002): 3-22.
+Temin, Peter. "{{% resource_link "1d0b13dd-67c4-4216-a894-e746d716f115" "The Golden Age of Economic Growth Reconsidered" %}}." _European Review of Economic History_ 6 (April 2002): 3-22.
 
-Bartels, Larry M. "The Partisan Political Economy." Chapter 2 in _Unequal Democracy: The Political Economy of the New Gilded Age_. Princeton, NJ: Princeton University Press, 2008, pp. 29-63. ISBN: 9780691136639. \[Preview in [Google Books](http://books.google.com/books?id=5b3ANxwlHzMC&printsec=frontcover&dq=Unequal+Democracy:+The+Political+Economy+of+the+New+Gilded+Age&source=bl&ots=CzWe35sU4g&sig=0q4-CPe1GHUEoU7bLFGFcJMqfeM&hl=en&ei=X0NjS-z0Oseztgf946StBg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBQQ6AEwAw#v=onepage&q=&f=false)\]
+Bartels, Larry M. "The Partisan Political Economy." Chapter 2 in _Unequal Democracy: The Political Economy of the New Gilded Age_. Princeton, NJ: Princeton University Press, 2008, pp. 29-63. ISBN: 9780691136639. \[Preview in {{% resource_link "4780fd3f-9890-4cb2-bada-7ecae892346b" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -217,11 +217,11 @@ Income inequality
 
 ### Ses #12
 
-Goldin, Claudia, and Lawrence F. Katz. "The Race between Education and Technology." Chapter 8 in _The Race between Education and Technology_. Cambridge, MA: Harvard University Press, 2008, pp. 287-323. ISBN: 9780674028678. \[Preview in [Google Books](http://books.google.com/books?id=mcYsvvNEUYwC&printsec=frontcover&dq=The+Race+between+Education+and+Technology&cd=1#v=onepage&q=&f=false)\]
+Goldin, Claudia, and Lawrence F. Katz. "The Race between Education and Technology." Chapter 8 in _The Race between Education and Technology_. Cambridge, MA: Harvard University Press, 2008, pp. 287-323. ISBN: 9780674028678. \[Preview in {{% resource_link "65ea7622-ca29-4875-a13b-a6950ebf38ba" "Google Books" %}}\]
 
 ### Ses #13
 
-Levy, Frank, and Peter Temin. "Inequality and Institutions in 20th Century America." In "Festschrift for Gavin Wright." Edited by Paul Rhode, Joshua Rosenbloom, and David Weiman. Also available as [National Bureau of Economic Research Working Paper No. 13106](http://www.nber.org/papers/w13106), May 2007.
+Levy, Frank, and Peter Temin. "Inequality and Institutions in 20th Century America." In "Festschrift for Gavin Wright." Edited by Paul Rhode, Joshua Rosenbloom, and David Weiman. Also available as {{% resource_link "f9166522-f17b-4193-8bf1-35f7e6a95aad" "National Bureau of Economic Research Working Paper No. 13106" %}}, May 2007.
 
 
 {{< tdclose >}}
@@ -243,7 +243,7 @@ Oil crises of the 1970s
 
 ### Ses #15
 
-Blanchard, Olivier J., and Jordi Gali. "The Macroeconomics of Oil Shocks: Why are the 2000s So Different from the 1970s?" In _International Dimensions of Monetary Policy_. Edited by Jordi Gali and Mark Gertler. Chicago, IL: University of Chicago Press, 2010. ISBN: 9780226278865. Also available as [National Bureau of Economic Research Working Paper No. 13368](http://www.nber.org/papers/w13368), September 2007.
+Blanchard, Olivier J., and Jordi Gali. "The Macroeconomics of Oil Shocks: Why are the 2000s So Different from the 1970s?" In _International Dimensions of Monetary Policy_. Edited by Jordi Gali and Mark Gertler. Chicago, IL: University of Chicago Press, 2010. ISBN: 9780226278865. Also available as {{% resource_link "dee9c287-22a0-4f52-9392-03250f61a17e" "National Bureau of Economic Research Working Paper No. 13368" %}}, September 2007.
 
 
 {{< tdclose >}}
@@ -265,7 +265,7 @@ Japanese growth and stagnation
 
 ### Ses #17
 
-Krugman, Paul, Kathryn M. Dominquez, and Kenneth Rogoff. "[It's Baaack: Japan's Slump and the Return of the Liquidity Trap](http://ideas.repec.org/a/bin/bpeajo/v29y1998i1998-2p137-206.html)." _Brookings Papers on Economic Activity_ 1998, no. 2 (1998): 137-205.
+Krugman, Paul, Kathryn M. Dominquez, and Kenneth Rogoff. "{{% resource_link "3c34b786-01f4-483f-be41-0478e18f3135" "It's Baaack: Japan's Slump and the Return of the Liquidity Trap" %}}." _Brookings Papers on Economic Activity_ 1998, no. 2 (1998): 137-205.
 
 
 {{< tdclose >}}
@@ -293,7 +293,7 @@ Small crises and imbalance
 
 ### Ses #19
 
-Taylor, John B. [_Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_](http://www.hooverpress.org/productdetails.cfm?PC=1342). Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
+Taylor, John B. {{% resource_link "7c5501e5-6ff1-4135-b590-a81da51c9384" "_Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_" %}}. Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
 
 
 {{< tdclose >}}
@@ -315,9 +315,9 @@ Taylor, John B. [_Getting off Track: How Government Actions and Interventions Ca
 
 ### Ses #21
 
-Coval, Joshua, Jakob Jurek, and Erik Stafford. "[The Economics of Structured Finance](http://ideas.repec.org/a/aea/jecper/v23y2009i1p3-25.html)." _Journal of Economic Perspectives_ 23, no. 1 (Winter 2009): 3-25.
+Coval, Joshua, Jakob Jurek, and Erik Stafford. "{{% resource_link "537a077b-8a89-43c8-9ad2-20231c0038d2" "The Economics of Structured Finance" %}}." _Journal of Economic Perspectives_ 23, no. 1 (Winter 2009): 3-25.
 
-Cecchetti, Stephen G. "[Crisis and Responses: The Federal Reserve in the Early Stages of the Financial Crisis](http://ideas.repec.org/a/aea/jecper/v23y2009i1p51-75.html)." _Journal of Economic Perspectives_ 23, no. 1 (Winter 2009): 51-75.
+Cecchetti, Stephen G. "{{% resource_link "0cc20b49-f1d3-4b3d-9c60-9476f415edfb" "Crisis and Responses: The Federal Reserve in the Early Stages of the Financial Crisis" %}}." _Journal of Economic Perspectives_ 23, no. 1 (Winter 2009): 51-75.
 
 
 {{< tdclose >}}
@@ -343,9 +343,9 @@ Cecchetti, Stephen G. "[Crisis and Responses: The Federal Reserve in the Early S
 
 ### Ses #23
 
-Mishkin, Frederick. "[Is Monetary Policy Effective during Financial Crises](http://ideas.repec.org/a/aea/aecrev/v99y2009i2p573-77.html)?" _American Economic Review, Papers and Proceedings_ 99, no. 2 (May 2009): 573-577.
+Mishkin, Frederick. "{{% resource_link "86ba72de-7ed7-4997-babd-f91d5df98a27" "Is Monetary Policy Effective during Financial Crises" %}}?" _American Economic Review, Papers and Proceedings_ 99, no. 2 (May 2009): 573-577.
 
-Johnson, Simon. "[The Quiet Coup](http://www.theatlantic.com/doc/200905/imf-advice)." _The Atlantic_, May 2009.
+Johnson, Simon. "{{% resource_link "5da871ae-9ee8-4d8a-a67b-7214145e5f82" "The Quiet Coup" %}}." _The Atlantic_, May 2009.
 
 
 {{< tdclose >}}

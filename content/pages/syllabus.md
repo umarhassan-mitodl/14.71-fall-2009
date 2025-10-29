@@ -39,7 +39,7 @@ Morris, Charles R. _The Two Trillion Dollar Meltdown: Easy Money, High Rollers, 
 
 Taylor, John B. _Getting off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_. Stanford, CA: Hoover Institution Press, 2009. ISBN: 9780817949716.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700443) Temin, Peter. [_Lessons from the Great Depression_](https://mitpress.mit.edu/9780262700443). Cambridge, MA: MIT Press, 1991. ISBN: 9780262700443.
+{{% resource_link "da55d602-7ba9-4dbc-a615-b2aed043c4ee" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Temin, Peter. {{% resource_link "da55d602-7ba9-4dbc-a615-b2aed043c4ee" "_Lessons from the Great Depression_" %}}. Cambridge, MA: MIT Press, 1991. ISBN: 9780262700443.
 
 Selected chapters will be chosen from these books:
 
